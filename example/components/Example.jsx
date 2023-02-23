@@ -18,7 +18,7 @@ const steps = [
   {
     id: '1',
     message: 'Hello World',
-    end: true
+    end: false
   }
 ];
 
